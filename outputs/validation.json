@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "document_count": 43,
+  "source_hashes": "passed",
+  "token_categories": "passed",
+  "png_decode": "passed",
+  "offline_html_and_placeholders": "passed",
+  "analyses": [
+    {
+      "features": 30,
+      "coordinate_rows": 43,
+      "feature_rows": 30,
+      "collection_feature_rows": 120,
+      "numerical_checks": "passed"
+    },
+    {
+      "features": 100,
+      "coordinate_rows": 43,
+      "feature_rows": 100,
+      "collection_feature_rows": 400,
+      "numerical_checks": "passed"
+    },
+    {
+      "features": 300,
+      "coordinate_rows": 43,
+      "feature_rows": 300,
+      "collection_feature_rows": 1200,
+      "numerical_checks": "passed"
+    }
+  ]
+}

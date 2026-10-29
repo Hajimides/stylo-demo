@@ -1,0 +1,9 @@
+qhchina==0.2.7
+jieba==0.42.1
+matplotlib==3.11.2
+scikit-learn==1.9.1
+numpy==2.5.4
+plotly==7.1.0
+Pillow==13.0.0
+
+adjustText==1.4.0

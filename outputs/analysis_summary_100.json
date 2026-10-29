@@ -1,0 +1,1268 @@
+{
+  "n_features": 100,
+  "document_count": 43,
+  "explained_variance_ratio": [
+    0.18635704124756075,
+    0.12599564651550596
+  ],
+  "explained_variance_ratio_total": 0.3123526877630667,
+  "author_silhouette_in_full_zscore_space": 0.21018048881449528,
+  "author_silhouette_in_pca_plane": 0.5199017162168578,
+  "collections": [
+    {
+      "collection": "呐喊",
+      "author": "鲁迅",
+      "document_count": 12,
+      "character_count": 70249,
+      "token_count": 38314,
+      "pca_centroid": [
+        0.15217165963038418,
+        3.8104604783751435
+      ],
+      "mean_distance_to_collection_centroid": 1.301941163578073,
+      "high_mean_zscore": [
+        {
+          "collection": "呐喊",
+          "author": "鲁迅",
+          "rank": 9,
+          "word": "便",
+          "count": 330,
+          "total_collection_tokens": 38314,
+          "frequency_per_10000": 86.13039619982253,
+          "collection_mean_corpus_zscore": 1.2496419635725207,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "呐喊",
+          "author": "鲁迅",
+          "rank": 13,
+          "word": "没有",
+          "count": 287,
+          "total_collection_tokens": 38314,
+          "frequency_per_10000": 74.90734457378504,
+          "collection_mean_corpus_zscore": 1.1214332982073532,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "呐喊",
+          "author": "鲁迅",
+          "rank": 21,
+          "word": "却",
+          "count": 183,
+          "total_collection_tokens": 38314,
+          "frequency_per_10000": 47.763219710810674,
+          "collection_mean_corpus_zscore": 0.9710488705733527,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "呐喊",
+          "author": "鲁迅",
+          "rank": 2,
+          "word": "了",
+          "count": 1485,
+          "total_collection_tokens": 38314,
+          "frequency_per_10000": 387.58678289920135,
+          "collection_mean_corpus_zscore": 0.8930053600610505,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "呐喊",
+          "author": "鲁迅",
+          "rank": 27,
+          "word": "他们",
+          "count": 162,
+          "total_collection_tokens": 38314,
+          "frequency_per_10000": 42.28219449809469,
+          "collection_mean_corpus_zscore": 0.8807595254249448,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "呐喊",
+          "author": "鲁迅",
+          "rank": 5,
+          "word": "也",
+          "count": 594,
+          "total_collection_tokens": 38314,
+          "frequency_per_10000": 155.03471315968054,
+          "collection_mean_corpus_zscore": 0.7346898998302746,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "呐喊",
+          "author": "鲁迅",
+          "rank": 29,
+          "word": "里",
+          "count": 152,
+          "total_collection_tokens": 38314,
+          "frequency_per_10000": 39.67218249203946,
+          "collection_mean_corpus_zscore": 0.7072083061059619,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "呐喊",
+          "author": "鲁迅",
+          "rank": 55,
+          "word": "并",
+          "count": 71,
+          "total_collection_tokens": 38314,
+          "frequency_per_10000": 18.531085242992116,
+          "collection_mean_corpus_zscore": 0.6995939205151256,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        }
+      ],
+      "low_mean_zscore": [
+        {
+          "collection": "呐喊",
+          "author": "鲁迅",
+          "rank": 39,
+          "word": "就",
+          "count": 105,
+          "total_collection_tokens": 38314,
+          "frequency_per_10000": 27.40512606357989,
+          "collection_mean_corpus_zscore": -1.0312850195058039,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "呐喊",
+          "author": "鲁迅",
+          "rank": 94,
+          "word": "她",
+          "count": 0,
+          "total_collection_tokens": 38314,
+          "frequency_per_10000": 0.0,
+          "collection_mean_corpus_zscore": -0.6237091821082286,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "呐喊",
+          "author": "鲁迅",
+          "rank": 40,
+          "word": "得",
+          "count": 104,
+          "total_collection_tokens": 38314,
+          "frequency_per_10000": 27.14412486297437,
+          "collection_mean_corpus_zscore": -0.6181917342714757,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "呐喊",
+          "author": "鲁迅",
+          "rank": 90,
+          "word": "为",
+          "count": 11,
+          "total_collection_tokens": 38314,
+          "frequency_per_10000": 2.8710132066607508,
+          "collection_mean_corpus_zscore": -0.5845433793693959,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "呐喊",
+          "author": "鲁迅",
+          "rank": 88,
+          "word": "把",
+          "count": 15,
+          "total_collection_tokens": 38314,
+          "frequency_per_10000": 3.915018009082842,
+          "collection_mean_corpus_zscore": -0.5778186175860954,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "呐喊",
+          "author": "鲁迅",
+          "rank": 91,
+          "word": "事情",
+          "count": 8,
+          "total_collection_tokens": 38314,
+          "frequency_per_10000": 2.0880096048441823,
+          "collection_mean_corpus_zscore": -0.5272486091503493,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "呐喊",
+          "author": "鲁迅",
+          "rank": 92,
+          "word": "一切",
+          "count": 6,
+          "total_collection_tokens": 38314,
+          "frequency_per_10000": 1.5660072036331367,
+          "collection_mean_corpus_zscore": -0.5146337920587143,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "呐喊",
+          "author": "鲁迅",
+          "rank": 93,
+          "word": "这个",
+          "count": 2,
+          "total_collection_tokens": 38314,
+          "frequency_per_10000": 0.5220024012110456,
+          "collection_mean_corpus_zscore": -0.4976639467727227,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        }
+      ]
+    },
+    {
+      "collection": "彷徨",
+      "author": "鲁迅",
+      "document_count": 11,
+      "character_count": 78655,
+      "token_count": 41724,
+      "pca_centroid": [
+        -0.28207957397838573,
+        2.409595728994535
+      ],
+      "mean_distance_to_collection_centroid": 1.4903562502005891,
+      "high_mean_zscore": [
+        {
+          "collection": "彷徨",
+          "author": "鲁迅",
+          "rank": 41,
+          "word": "起来",
+          "count": 112,
+          "total_collection_tokens": 41724,
+          "frequency_per_10000": 26.843063944013036,
+          "collection_mean_corpus_zscore": 0.937243979292698,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "彷徨",
+          "author": "鲁迅",
+          "rank": 36,
+          "word": "已经",
+          "count": 133,
+          "total_collection_tokens": 41724,
+          "frequency_per_10000": 31.876138433515486,
+          "collection_mean_corpus_zscore": 0.9323823560296437,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "彷徨",
+          "author": "鲁迅",
+          "rank": 21,
+          "word": "但",
+          "count": 206,
+          "total_collection_tokens": 41724,
+          "frequency_per_10000": 49.372064039881124,
+          "collection_mean_corpus_zscore": 0.9017426672558764,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "彷徨",
+          "author": "鲁迅",
+          "rank": 8,
+          "word": "她",
+          "count": 462,
+          "total_collection_tokens": 41724,
+          "frequency_per_10000": 110.72763876905377,
+          "collection_mean_corpus_zscore": 0.8316081186604396,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "彷徨",
+          "author": "鲁迅",
+          "rank": 15,
+          "word": "和",
+          "count": 261,
+          "total_collection_tokens": 41724,
+          "frequency_per_10000": 62.55392579810181,
+          "collection_mean_corpus_zscore": 0.8045911868116223,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "彷徨",
+          "author": "鲁迅",
+          "rank": 51,
+          "word": "似乎",
+          "count": 79,
+          "total_collection_tokens": 41724,
+          "frequency_per_10000": 18.933946889080627,
+          "collection_mean_corpus_zscore": 0.7565612010514585,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "彷徨",
+          "author": "鲁迅",
+          "rank": 46,
+          "word": "觉得",
+          "count": 91,
+          "total_collection_tokens": 41724,
+          "frequency_per_10000": 21.809989454510593,
+          "collection_mean_corpus_zscore": 0.7464333159951946,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "彷徨",
+          "author": "鲁迅",
+          "rank": 20,
+          "word": "还",
+          "count": 212,
+          "total_collection_tokens": 41724,
+          "frequency_per_10000": 50.81008532259611,
+          "collection_mean_corpus_zscore": 0.6870607467845308,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        }
+      ],
+      "low_mean_zscore": [
+        {
+          "collection": "彷徨",
+          "author": "鲁迅",
+          "rank": 30,
+          "word": "到",
+          "count": 152,
+          "total_collection_tokens": 41724,
+          "frequency_per_10000": 36.42987249544627,
+          "collection_mean_corpus_zscore": -0.7042699818001704,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "彷徨",
+          "author": "鲁迅",
+          "rank": 91,
+          "word": "把",
+          "count": 10,
+          "total_collection_tokens": 41724,
+          "frequency_per_10000": 2.396702137858307,
+          "collection_mean_corpus_zscore": -0.6860938601974398,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "彷徨",
+          "author": "鲁迅",
+          "rank": 73,
+          "word": "才",
+          "count": 39,
+          "total_collection_tokens": 41724,
+          "frequency_per_10000": 9.347138337647397,
+          "collection_mean_corpus_zscore": -0.6170914105630785,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "彷徨",
+          "author": "鲁迅",
+          "rank": 79,
+          "word": "所以",
+          "count": 36,
+          "total_collection_tokens": 41724,
+          "frequency_per_10000": 8.628127696289905,
+          "collection_mean_corpus_zscore": -0.6114576710146342,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "彷徨",
+          "author": "鲁迅",
+          "rank": 82,
+          "word": "不能",
+          "count": 29,
+          "total_collection_tokens": 41724,
+          "frequency_per_10000": 6.95043619978909,
+          "collection_mean_corpus_zscore": -0.6034669107782443,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "彷徨",
+          "author": "鲁迅",
+          "rank": 24,
+          "word": "有",
+          "count": 182,
+          "total_collection_tokens": 41724,
+          "frequency_per_10000": 43.619978909021185,
+          "collection_mean_corpus_zscore": -0.5739910453569825,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "彷徨",
+          "author": "鲁迅",
+          "rank": 60,
+          "word": "走",
+          "count": 60,
+          "total_collection_tokens": 41724,
+          "frequency_per_10000": 14.380212827149842,
+          "collection_mean_corpus_zscore": -0.5392932043352848,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "彷徨",
+          "author": "鲁迅",
+          "rank": 31,
+          "word": "人",
+          "count": 150,
+          "total_collection_tokens": 41724,
+          "frequency_per_10000": 35.950532067874605,
+          "collection_mean_corpus_zscore": -0.5169904408144711,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        }
+      ]
+    },
+    {
+      "collection": "故事新编",
+      "author": "鲁迅",
+      "document_count": 9,
+      "character_count": 66615,
+      "token_count": 32952,
+      "pca_centroid": [
+        -6.4840540663659505,
+        -3.7476221657651374
+      ],
+      "mean_distance_to_collection_centroid": 0.8531950771655435,
+      "high_mean_zscore": [
+        {
+          "collection": "故事新编",
+          "author": "鲁迅",
+          "rank": 8,
+          "word": "說",
+          "count": 287,
+          "total_collection_tokens": 32952,
+          "frequency_per_10000": 87.09638261714008,
+          "collection_mean_corpus_zscore": 1.754503722217675,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "故事新编",
+          "author": "鲁迅",
+          "rank": 18,
+          "word": "得",
+          "count": 135,
+          "total_collection_tokens": 32952,
+          "frequency_per_10000": 40.9686817188638,
+          "collection_mean_corpus_zscore": 0.9970544265019533,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "故事新编",
+          "author": "鲁迅",
+          "rank": 27,
+          "word": "一",
+          "count": 88,
+          "total_collection_tokens": 32952,
+          "frequency_per_10000": 26.70551104637048,
+          "collection_mean_corpus_zscore": 0.7094191657215159,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "故事新编",
+          "author": "鲁迅",
+          "rank": 10,
+          "word": "有",
+          "count": 249,
+          "total_collection_tokens": 32952,
+          "frequency_per_10000": 75.56445739257101,
+          "collection_mean_corpus_zscore": 0.6896672403846545,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "故事新编",
+          "author": "鲁迅",
+          "rank": 13,
+          "word": "上",
+          "count": 182,
+          "total_collection_tokens": 32952,
+          "frequency_per_10000": 55.23185239135713,
+          "collection_mean_corpus_zscore": 0.5926088136211177,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "故事新编",
+          "author": "鲁迅",
+          "rank": 20,
+          "word": "看",
+          "count": 134,
+          "total_collection_tokens": 32952,
+          "frequency_per_10000": 40.66521000242777,
+          "collection_mean_corpus_zscore": 0.5809605149340409,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "故事新编",
+          "author": "鲁迅",
+          "rank": 40,
+          "word": "就是",
+          "count": 50,
+          "total_collection_tokens": 32952,
+          "frequency_per_10000": 15.173585821801408,
+          "collection_mean_corpus_zscore": 0.520167096116159,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "故事新编",
+          "author": "鲁迅",
+          "rank": 37,
+          "word": "一面",
+          "count": 55,
+          "total_collection_tokens": 32952,
+          "frequency_per_10000": 16.69094440398155,
+          "collection_mean_corpus_zscore": 0.45705004812444955,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        }
+      ],
+      "low_mean_zscore": [
+        {
+          "collection": "故事新编",
+          "author": "鲁迅",
+          "rank": 69,
+          "word": "来",
+          "count": 0,
+          "total_collection_tokens": 32952,
+          "frequency_per_10000": 0.0,
+          "collection_mean_corpus_zscore": -1.5960234805157212,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "故事新编",
+          "author": "鲁迅",
+          "rank": 66,
+          "word": "这",
+          "count": 0,
+          "total_collection_tokens": 32952,
+          "frequency_per_10000": 0.0,
+          "collection_mean_corpus_zscore": -1.57763981586043,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "故事新编",
+          "author": "鲁迅",
+          "rank": 70,
+          "word": "还",
+          "count": 0,
+          "total_collection_tokens": 32952,
+          "frequency_per_10000": 0.0,
+          "collection_mean_corpus_zscore": -1.5536420151766728,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "故事新编",
+          "author": "鲁迅",
+          "rank": 67,
+          "word": "一个",
+          "count": 0,
+          "total_collection_tokens": 32952,
+          "frequency_per_10000": 0.0,
+          "collection_mean_corpus_zscore": -1.4801071949520206,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "故事新编",
+          "author": "鲁迅",
+          "rank": 80,
+          "word": "过",
+          "count": 0,
+          "total_collection_tokens": 32952,
+          "frequency_per_10000": 0.0,
+          "collection_mean_corpus_zscore": -1.4325996432293073,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "故事新编",
+          "author": "鲁迅",
+          "rank": 68,
+          "word": "着",
+          "count": 0,
+          "total_collection_tokens": 32952,
+          "frequency_per_10000": 0.0,
+          "collection_mean_corpus_zscore": -1.4187458742985297,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "故事新编",
+          "author": "鲁迅",
+          "rank": 71,
+          "word": "什么",
+          "count": 0,
+          "total_collection_tokens": 32952,
+          "frequency_per_10000": 0.0,
+          "collection_mean_corpus_zscore": -1.3899467063193853,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "故事新编",
+          "author": "鲁迅",
+          "rank": 97,
+          "word": "给",
+          "count": 0,
+          "total_collection_tokens": 32952,
+          "frequency_per_10000": 0.0,
+          "collection_mean_corpus_zscore": -1.3483371469410406,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        }
+      ]
+    },
+    {
+      "collection": "沈从文",
+      "author": "沈从文",
+      "document_count": 11,
+      "character_count": 215537,
+      "token_count": 118467,
+      "pca_centroid": [
+        5.4212092723173795,
+        -3.5002253879595786
+      ],
+      "mean_distance_to_collection_centroid": 2.342463291661333,
+      "high_mean_zscore": [
+        {
+          "collection": "沈从文",
+          "author": "沈从文",
+          "rank": 21,
+          "word": "把",
+          "count": 639,
+          "total_collection_tokens": 118467,
+          "frequency_per_10000": 53.93907164020361,
+          "collection_mean_corpus_zscore": 1.5602527914606485,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "沈从文",
+          "author": "沈从文",
+          "rank": 9,
+          "word": "到",
+          "count": 1298,
+          "total_collection_tokens": 118467,
+          "frequency_per_10000": 109.56637713456068,
+          "collection_mean_corpus_zscore": 1.397853306181632,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "沈从文",
+          "author": "沈从文",
+          "rank": 34,
+          "word": "为",
+          "count": 358,
+          "total_collection_tokens": 118467,
+          "frequency_per_10000": 30.219385989347245,
+          "collection_mean_corpus_zscore": 1.35166515023943,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "沈从文",
+          "author": "沈从文",
+          "rank": 41,
+          "word": "这个",
+          "count": 318,
+          "total_collection_tokens": 118467,
+          "frequency_per_10000": 26.84291828104029,
+          "collection_mean_corpus_zscore": 1.346395094409571,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "沈从文",
+          "author": "沈从文",
+          "rank": 38,
+          "word": "同",
+          "count": 324,
+          "total_collection_tokens": 118467,
+          "frequency_per_10000": 27.34938843728633,
+          "collection_mean_corpus_zscore": 1.3283649969521758,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "沈从文",
+          "author": "沈从文",
+          "rank": 49,
+          "word": "时",
+          "count": 291,
+          "total_collection_tokens": 118467,
+          "frequency_per_10000": 24.563802577933096,
+          "collection_mean_corpus_zscore": 1.3253297994492668,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "沈从文",
+          "author": "沈从文",
+          "rank": 65,
+          "word": "一切",
+          "count": 233,
+          "total_collection_tokens": 118467,
+          "frequency_per_10000": 19.667924400888012,
+          "collection_mean_corpus_zscore": 1.2369427776078636,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "沈从文",
+          "author": "沈从文",
+          "rank": 51,
+          "word": "事情",
+          "count": 289,
+          "total_collection_tokens": 118467,
+          "frequency_per_10000": 24.394979192517745,
+          "collection_mean_corpus_zscore": 1.216481600111214,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        }
+      ],
+      "low_mean_zscore": [
+        {
+          "collection": "沈从文",
+          "author": "沈从文",
+          "rank": 94,
+          "word": "和",
+          "count": 105,
+          "total_collection_tokens": 118467,
+          "frequency_per_10000": 8.863227734305756,
+          "collection_mean_corpus_zscore": -1.1964303618368342,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "沈从文",
+          "author": "沈从文",
+          "rank": 14,
+          "word": "也",
+          "count": 1013,
+          "total_collection_tokens": 118467,
+          "frequency_per_10000": 85.50904471287363,
+          "collection_mean_corpus_zscore": -1.1635947787412073,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "沈从文",
+          "author": "沈从文",
+          "rank": 82,
+          "word": "但",
+          "count": 156,
+          "total_collection_tokens": 118467,
+          "frequency_per_10000": 13.168224062397123,
+          "collection_mean_corpus_zscore": -0.9749173729511971,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "沈从文",
+          "author": "沈从文",
+          "rank": 96,
+          "word": "便",
+          "count": 100,
+          "total_collection_tokens": 118467,
+          "frequency_per_10000": 8.441169270767386,
+          "collection_mean_corpus_zscore": -0.9460872616107255,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "沈从文",
+          "author": "沈从文",
+          "rank": 97,
+          "word": "呢",
+          "count": 68,
+          "total_collection_tokens": 118467,
+          "frequency_per_10000": 5.739995104121823,
+          "collection_mean_corpus_zscore": -0.8254443035363671,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "沈从文",
+          "author": "沈从文",
+          "rank": 57,
+          "word": "很",
+          "count": 263,
+          "total_collection_tokens": 118467,
+          "frequency_per_10000": 22.200275182118226,
+          "collection_mean_corpus_zscore": -0.7492999539322033,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "沈从文",
+          "author": "沈从文",
+          "rank": 98,
+          "word": "然而",
+          "count": 59,
+          "total_collection_tokens": 118467,
+          "frequency_per_10000": 4.980289869752758,
+          "collection_mean_corpus_zscore": -0.679517096533016,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        },
+        {
+          "collection": "沈从文",
+          "author": "沈从文",
+          "rank": 32,
+          "word": "都",
+          "count": 413,
+          "total_collection_tokens": 118467,
+          "frequency_per_10000": 34.86202908826931,
+          "collection_mean_corpus_zscore": -0.638143168918971,
+          "zscore_definition": "collection mean of story z-scores; corpus-wide qhchina standardization (equal weight per story, ddof=0)"
+        }
+      ]
+    }
+  ],
+  "author_centroids": {
+    "鲁迅": [
+      -1.8635406873590994,
+      1.2032024771111058
+    ],
+    "沈从文": [
+      5.4212092723173795,
+      -3.5002253879595786
+    ]
+  },
+  "closer_to_other_author_centroid_in_pca_plane": [],
+  "centroid_flag_definition": "Euclidean distance to two in-sample author centroids in the PCA plane; descriptive only, no held-out validation.",
+  "stories": [
+    {
+      "document_id": "鲁迅_1",
+      "author": "鲁迅",
+      "collection": "呐喊",
+      "title": "一件小事",
+      "source_file": "corpora/authors/鲁迅/呐喊/一件小事.txt",
+      "character_count": 1046,
+      "token_count": 562,
+      "pc1": 1.8024302324729353,
+      "pc2": 5.292401777913213
+    },
+    {
+      "document_id": "鲁迅_2",
+      "author": "鲁迅",
+      "collection": "呐喊",
+      "title": "兔和猫",
+      "source_file": "corpora/authors/鲁迅/呐喊/兔和猫.txt",
+      "character_count": 2510,
+      "token_count": 1451,
+      "pc1": -0.6350108789746354,
+      "pc2": 4.749830641634325
+    },
+    {
+      "document_id": "鲁迅_3",
+      "author": "鲁迅",
+      "collection": "呐喊",
+      "title": "头发的故事",
+      "source_file": "corpora/authors/鲁迅/呐喊/头发的故事.txt",
+      "character_count": 2382,
+      "token_count": 1269,
+      "pc1": 1.5270569602031487,
+      "pc2": 2.756342854129996
+    },
+    {
+      "document_id": "鲁迅_4",
+      "author": "鲁迅",
+      "collection": "呐喊",
+      "title": "孔乙己",
+      "source_file": "corpora/authors/鲁迅/呐喊/孔乙己.txt",
+      "character_count": 10740,
+      "token_count": 5686,
+      "pc1": -1.0975838501460187,
+      "pc2": 2.7224339104010546
+    },
+    {
+      "document_id": "鲁迅_5",
+      "author": "鲁迅",
+      "collection": "呐喊",
+      "title": "故乡",
+      "source_file": "corpora/authors/鲁迅/呐喊/故乡.txt",
+      "character_count": 5038,
+      "token_count": 2778,
+      "pc1": 0.7138588942677472,
+      "pc2": 4.0507639022090265
+    },
+    {
+      "document_id": "鲁迅_6",
+      "author": "鲁迅",
+      "collection": "呐喊",
+      "title": "狂人日记",
+      "source_file": "corpora/authors/鲁迅/呐喊/狂人日记.txt",
+      "character_count": 4860,
+      "token_count": 2636,
+      "pc1": 1.3835472304178447,
+      "pc2": 2.2583366539051206
+    },
+    {
+      "document_id": "鲁迅_7",
+      "author": "鲁迅",
+      "collection": "呐喊",
+      "title": "社戏",
+      "source_file": "corpora/authors/鲁迅/呐喊/社戏.txt",
+      "character_count": 5886,
+      "token_count": 3365,
+      "pc1": -0.7003835971659007,
+      "pc2": 4.454427492362755
+    },
+    {
+      "document_id": "鲁迅_8",
+      "author": "鲁迅",
+      "collection": "呐喊",
+      "title": "端午节",
+      "source_file": "corpora/authors/鲁迅/呐喊/端午节.txt",
+      "character_count": 7332,
+      "token_count": 4048,
+      "pc1": 0.27166206349439975,
+      "pc2": 4.506726918035487
+    },
+    {
+      "document_id": "鲁迅_9",
+      "author": "鲁迅",
+      "collection": "呐喊",
+      "title": "自序",
+      "source_file": "corpora/authors/鲁迅/呐喊/自序.txt",
+      "character_count": 2882,
+      "token_count": 1642,
+      "pc1": 0.5845277725171739,
+      "pc2": 3.4783142944396976
+    },
+    {
+      "document_id": "鲁迅_10",
+      "author": "鲁迅",
+      "collection": "呐喊",
+      "title": "阿Q正传",
+      "source_file": "corpora/authors/鲁迅/呐喊/阿Q正传.txt",
+      "character_count": 21606,
+      "token_count": 11694,
+      "pc1": -0.5057831103227984,
+      "pc2": 4.3507869842329985
+    },
+    {
+      "document_id": "鲁迅_11",
+      "author": "鲁迅",
+      "collection": "呐喊",
+      "title": "风波",
+      "source_file": "corpora/authors/鲁迅/呐喊/风波.txt",
+      "character_count": 4356,
+      "token_count": 2305,
+      "pc1": -0.20617289383739343,
+      "pc2": 2.4986312461063855
+    },
+    {
+      "document_id": "鲁迅_12",
+      "author": "鲁迅",
+      "collection": "呐喊",
+      "title": "鸭的喜剧",
+      "source_file": "corpora/authors/鲁迅/呐喊/鸭的喜剧.txt",
+      "character_count": 1611,
+      "token_count": 878,
+      "pc1": -1.3120889073618927,
+      "pc2": 4.606529065131664
+    },
+    {
+      "document_id": "鲁迅_13",
+      "author": "鲁迅",
+      "collection": "彷徨",
+      "title": "伤逝",
+      "source_file": "corpora/authors/鲁迅/彷徨/伤逝.txt",
+      "character_count": 11475,
+      "token_count": 6318,
+      "pc1": 0.17355873272517033,
+      "pc2": 4.157380267327507
+    },
+    {
+      "document_id": "鲁迅_14",
+      "author": "鲁迅",
+      "collection": "彷徨",
+      "title": "在酒楼上",
+      "source_file": "corpora/authors/鲁迅/彷徨/在酒楼上.txt",
+      "character_count": 6160,
+      "token_count": 3488,
+      "pc1": -0.7098046123906417,
+      "pc2": 4.0221568595252535
+    },
+    {
+      "document_id": "鲁迅_15",
+      "author": "鲁迅",
+      "collection": "彷徨",
+      "title": "孤独者",
+      "source_file": "corpora/authors/鲁迅/彷徨/孤独者.txt",
+      "character_count": 12979,
+      "token_count": 6999,
+      "pc1": 0.289110583268831,
+      "pc2": 3.463511345714147
+    },
+    {
+      "document_id": "鲁迅_16",
+      "author": "鲁迅",
+      "collection": "彷徨",
+      "title": "幸福的家庭",
+      "source_file": "corpora/authors/鲁迅/彷徨/幸福的家庭.txt",
+      "character_count": 5481,
+      "token_count": 2787,
+      "pc1": -1.5154035438726856,
+      "pc2": 1.350593973192821
+    },
+    {
+      "document_id": "鲁迅_17",
+      "author": "鲁迅",
+      "collection": "彷徨",
+      "title": "弟兄",
+      "source_file": "corpora/authors/鲁迅/彷徨/弟兄.txt",
+      "character_count": 6155,
+      "token_count": 3147,
+      "pc1": 0.06657090282781743,
+      "pc2": 3.3637585436602735
+    },
+    {
+      "document_id": "鲁迅_18",
+      "author": "鲁迅",
+      "collection": "彷徨",
+      "title": "示众",
+      "source_file": "corpora/authors/鲁迅/彷徨/示众.txt",
+      "character_count": 3058,
+      "token_count": 1660,
+      "pc1": -2.5491378688286925,
+      "pc2": 1.3762867634516869
+    },
+    {
+      "document_id": "鲁迅_19",
+      "author": "鲁迅",
+      "collection": "彷徨",
+      "title": "祝福",
+      "source_file": "corpora/authors/鲁迅/彷徨/祝福.txt",
+      "character_count": 9309,
+      "token_count": 5064,
+      "pc1": -0.2249367993884964,
+      "pc2": 3.437026921291654
+    },
+    {
+      "document_id": "鲁迅_20",
+      "author": "鲁迅",
+      "collection": "彷徨",
+      "title": "离婚",
+      "source_file": "corpora/authors/鲁迅/彷徨/离婚.txt",
+      "character_count": 5907,
+      "token_count": 3029,
+      "pc1": 0.9703483751864249,
+      "pc2": 1.6093525745135306
+    },
+    {
+      "document_id": "鲁迅_21",
+      "author": "鲁迅",
+      "collection": "彷徨",
+      "title": "肥皂",
+      "source_file": "corpora/authors/鲁迅/彷徨/肥皂.txt",
+      "character_count": 6425,
+      "token_count": 3332,
+      "pc1": 0.7906491119614971,
+      "pc2": 1.2584074739934998
+    },
+    {
+      "document_id": "鲁迅_22",
+      "author": "鲁迅",
+      "collection": "彷徨",
+      "title": "长明灯",
+      "source_file": "corpora/authors/鲁迅/彷徨/长明灯.txt",
+      "character_count": 5573,
+      "token_count": 2795,
+      "pc1": 0.2122724140855116,
+      "pc2": 1.3023807321696128
+    },
+    {
+      "document_id": "鲁迅_23",
+      "author": "鲁迅",
+      "collection": "彷徨",
+      "title": "高老夫子",
+      "source_file": "corpora/authors/鲁迅/彷徨/高老夫子.txt",
+      "character_count": 6133,
+      "token_count": 3105,
+      "pc1": -0.6061026093369793,
+      "pc2": 1.1646975640998947
+    },
+    {
+      "document_id": "鲁迅_24",
+      "author": "鲁迅",
+      "collection": "故事新编",
+      "title": "出關",
+      "source_file": "corpora/authors/鲁迅/故事新编/出關.txt",
+      "character_count": 8188,
+      "token_count": 3873,
+      "pc1": -6.07879631664166,
+      "pc2": -4.844524788158796
+    },
+    {
+      "document_id": "鲁迅_25",
+      "author": "鲁迅",
+      "collection": "故事新编",
+      "title": "奔月",
+      "source_file": "corpora/authors/鲁迅/故事新编/奔月.txt",
+      "character_count": 6270,
+      "token_count": 3169,
+      "pc1": -6.3481326895326795,
+      "pc2": -3.318802753912673
+    },
+    {
+      "document_id": "鲁迅_26",
+      "author": "鲁迅",
+      "collection": "故事新编",
+      "title": "序言",
+      "source_file": "corpora/authors/鲁迅/故事新编/序言.txt",
+      "character_count": 1171,
+      "token_count": 583,
+      "pc1": -7.0824200952399385,
+      "pc2": -3.985407245595646
+    },
+    {
+      "document_id": "鲁迅_27",
+      "author": "鲁迅",
+      "collection": "故事新编",
+      "title": "採薇",
+      "source_file": "corpora/authors/鲁迅/故事新编/採薇.txt",
+      "character_count": 10438,
+      "token_count": 5321,
+      "pc1": -6.232625672773352,
+      "pc2": -3.305070868802041
+    },
+    {
+      "document_id": "鲁迅_28",
+      "author": "鲁迅",
+      "collection": "故事新编",
+      "title": "理水",
+      "source_file": "corpora/authors/鲁迅/故事新编/理水.txt",
+      "character_count": 8648,
+      "token_count": 4370,
+      "pc1": -6.705545128176906,
+      "pc2": -4.080569989654559
+    },
+    {
+      "document_id": "鲁迅_29",
+      "author": "鲁迅",
+      "collection": "故事新编",
+      "title": "補天",
+      "source_file": "corpora/authors/鲁迅/故事新编/補天.txt",
+      "character_count": 5114,
+      "token_count": 2678,
+      "pc1": -7.124801430243349,
+      "pc2": -1.9877463468626027
+    },
+    {
+      "document_id": "鲁迅_30",
+      "author": "鲁迅",
+      "collection": "故事新编",
+      "title": "起死",
+      "source_file": "corpora/authors/鲁迅/故事新编/起死.txt",
+      "character_count": 6771,
+      "token_count": 3016,
+      "pc1": -5.556888597077287,
+      "pc2": -4.903142698348614
+    },
+    {
+      "document_id": "鲁迅_31",
+      "author": "鲁迅",
+      "collection": "故事新编",
+      "title": "鑄劍",
+      "source_file": "corpora/authors/鲁迅/故事新编/鑄劍.txt",
+      "character_count": 10569,
+      "token_count": 5367,
+      "pc1": -6.840040374435125,
+      "pc2": -3.128409955695818
+    },
+    {
+      "document_id": "鲁迅_32",
+      "author": "鲁迅",
+      "collection": "故事新编",
+      "title": "非攻",
+      "source_file": "corpora/authors/鲁迅/故事新编/非攻.txt",
+      "character_count": 9446,
+      "token_count": 4575,
+      "pc1": -6.387236293173245,
+      "pc2": -4.174924844855485
+    },
+    {
+      "document_id": "沈从文_1",
+      "author": "沈从文",
+      "collection": "沈从文",
+      "title": "一个女剧员的生活",
+      "source_file": "corpora/authors/沈从文/沈从文小说集/一个女剧员的生活.txt",
+      "character_count": 71156,
+      "token_count": 38766,
+      "pc1": 10.82640819815956,
+      "pc2": -5.548332669343703
+    },
+    {
+      "document_id": "沈从文_2",
+      "author": "沈从文",
+      "collection": "沈从文",
+      "title": "丈夫",
+      "source_file": "corpora/authors/沈从文/沈从文小说集/丈夫.txt",
+      "character_count": 10969,
+      "token_count": 5874,
+      "pc1": 4.6013222783882,
+      "pc2": -3.479691382721153
+    },
+    {
+      "document_id": "沈从文_3",
+      "author": "沈从文",
+      "collection": "沈从文",
+      "title": "三三",
+      "source_file": "corpora/authors/沈从文/沈从文小说集/三三.txt",
+      "character_count": 16107,
+      "token_count": 8877,
+      "pc1": 7.4505627590368455,
+      "pc2": -3.1187290459902957
+    },
+    {
+      "document_id": "沈从文_4",
+      "author": "沈从文",
+      "collection": "沈从文",
+      "title": "三个男人和一个女人",
+      "source_file": "corpora/authors/沈从文/沈从文小说集/三个男人和一个女人.txt",
+      "character_count": 14470,
+      "token_count": 8030,
+      "pc1": 7.635772271319756,
+      "pc2": -2.389554964578576
+    },
+    {
+      "document_id": "沈从文_5",
+      "author": "沈从文",
+      "collection": "沈从文",
+      "title": "月下小景",
+      "source_file": "corpora/authors/沈从文/沈从文小说集/月下小景.txt",
+      "character_count": 7405,
+      "token_count": 4021,
+      "pc1": 3.5589556151138306,
+      "pc2": -4.652891333559814
+    },
+    {
+      "document_id": "沈从文_6",
+      "author": "沈从文",
+      "collection": "沈从文",
+      "title": "未命名",
+      "source_file": "corpora/authors/沈从文/沈从文小说集/未命名.txt",
+      "character_count": 7020,
+      "token_count": 3887,
+      "pc1": 1.2703931838643312,
+      "pc2": -2.7017251509407068
+    },
+    {
+      "document_id": "沈从文_7",
+      "author": "沈从文",
+      "collection": "沈从文",
+      "title": "萧萧",
+      "source_file": "corpora/authors/沈从文/沈从文小说集/萧萧.txt",
+      "character_count": 8610,
+      "token_count": 4614,
+      "pc1": 4.247848898070313,
+      "pc2": -3.809232686366581
+    },
+    {
+      "document_id": "沈从文_8",
+      "author": "沈从文",
+      "collection": "沈从文",
+      "title": "虎雏",
+      "source_file": "corpora/authors/沈从文/沈从文小说集/虎雏.txt",
+      "character_count": 16169,
+      "token_count": 9238,
+      "pc1": 7.960903274957369,
+      "pc2": -2.775734723166081
+    },
+    {
+      "document_id": "沈从文_9",
+      "author": "沈从文",
+      "collection": "沈从文",
+      "title": "贵生",
+      "source_file": "corpora/authors/沈从文/沈从文小说集/贵生.txt",
+      "character_count": 19660,
+      "token_count": 10783,
+      "pc1": 4.179953523349198,
+      "pc2": -2.872760384681224
+    },
+    {
+      "document_id": "沈从文_10",
+      "author": "沈从文",
+      "collection": "沈从文",
+      "title": "阿黑小史",
+      "source_file": "corpora/authors/沈从文/沈从文小说集/阿黑小史.txt",
+      "character_count": 32405,
+      "token_count": 17873,
+      "pc1": 4.349976657448175,
+      "pc2": -3.70850260641632
+    },
+    {
+      "document_id": "沈从文_11",
+      "author": "沈从文",
+      "collection": "沈从文",
+      "title": "龙朱",
+      "source_file": "corpora/authors/沈从文/沈从文小说集/龙朱.txt",
+      "character_count": 11566,
+      "token_count": 6504,
+      "pc1": 3.5512053357835986,
+      "pc2": -3.445324319790913
+    }
+  ]
+}

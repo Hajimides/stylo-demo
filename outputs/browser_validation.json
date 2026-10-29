@@ -1,0 +1,51 @@
+{
+  "status": "passed",
+  "browser": "Chromium",
+  "browser_version": "151.0.7922.34",
+  "offline": true,
+  "document_count": 43,
+  "settings": [
+    {
+      "n_features": 30,
+      "counts": {
+        "呐喊": 12,
+        "彷徨": 11,
+        "故事新编": 9,
+        "沈从文": 11
+      }
+    },
+    {
+      "n_features": 100,
+      "counts": {
+        "呐喊": 12,
+        "彷徨": 11,
+        "故事新编": 9,
+        "沈从文": 11
+      }
+    },
+    {
+      "n_features": 300,
+      "counts": {
+        "呐喊": 12,
+        "彷徨": 11,
+        "故事新编": 9,
+        "沈从文": 11
+      }
+    }
+  ],
+  "checks": [
+    "default_100_features",
+    "all_feature_settings_have_43_points_and_four_collections",
+    "legend_toggle",
+    "reset_restores_hidden_collection",
+    "title_toggle",
+    "real_pointer_hover_shows_document_metadata",
+    "mouse_wheel_zoom",
+    "pointer_pan",
+    "reset_restores_axis_ranges",
+    "no_javascript_errors_or_external_network_requests"
+  ],
+  "javascript_errors": [],
+  "external_requests": [],
+  "screenshot": "pca_interactive.png"
+}

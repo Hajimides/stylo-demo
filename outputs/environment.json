@@ -1,0 +1,16 @@
+{
+  "python": "3.12.14",
+  "packages": {
+    "qhchina": "0.2.7",
+    "jieba": "0.42.1",
+    "matplotlib": "3.11.2",
+    "scikit-learn": "1.9.1",
+    "numpy": "2.5.4",
+    "plotly": "7.1.0",
+    "Pillow": "13.0.0",
+    "adjustText": "1.4.0"
+  },
+  "preprocessing": "Keep Unicode categories L/N; replace every other code point with a space before jieba.cut(cut_all=False,HMM=True); no stopwords or script conversion.",
+  "character_count_definition": "len(original UTF-8 decoded text), including whitespace/punctuation; letter_number_character_count is exported separately.",
+  "pca": "sklearn PCA(n_components=2, svd_solver='full') fitted to qhchina document_vectors; distance='cosine' is not applied as a PCA distance matrix."
+}

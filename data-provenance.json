@@ -1,0 +1,257 @@
+{
+  "repository": "https://github.com/mcjkurz/qhchina-data.git",
+  "branch": "main",
+  "commit": "a62187705288592cc150bf57bd0b4c7d50f4f693",
+  "downloaded_at_utc": "2026-10-29T08:03:38.936332+00:00",
+  "method": "git clone --filter=blob:none --depth=1 --sparse; sparse-checkout four requested collection directories; copy .txt files only",
+  "total_txt_files": 43,
+  "collections": [
+    {
+      "author": "鲁迅",
+      "collection": "呐喊",
+      "source_directory": "corpora/authors/鲁迅/呐喊",
+      "txt_count": 12,
+      "files": [
+        {
+          "path": "corpora/authors/鲁迅/呐喊/一件小事.txt",
+          "bytes": 3106,
+          "sha256": "c4842a3e572f432714f6853bd1be82a7b0b204c45c7fdc5a542a16f496e80432"
+        },
+        {
+          "path": "corpora/authors/鲁迅/呐喊/兔和猫.txt",
+          "bytes": 7478,
+          "sha256": "71aa4c4a2e139c05b71b78b000b9e5eaae38d70f183f448ad11f9668073022ec"
+        },
+        {
+          "path": "corpora/authors/鲁迅/呐喊/头发的故事.txt",
+          "bytes": 7068,
+          "sha256": "7491b0339675af02485d87dadd9a7e3fccf5523b10cfabdf651428ae55ca4db4"
+        },
+        {
+          "path": "corpora/authors/鲁迅/呐喊/孔乙己.txt",
+          "bytes": 32001,
+          "sha256": "27f45471405e378fe038ec8bba14936c8c801006cadac070c408f852e91244da"
+        },
+        {
+          "path": "corpora/authors/鲁迅/呐喊/故乡.txt",
+          "bytes": 14982,
+          "sha256": "f4d15fdafae266113ba2c44f2911d9df9c9d678adb88552aad4bbaa2a9362b17"
+        },
+        {
+          "path": "corpora/authors/鲁迅/呐喊/狂人日记.txt",
+          "bytes": 14453,
+          "sha256": "4336793b46dfdc27fe8c05d2a266935e2b2c3cc881046473f466d5cdaa8f61b5"
+        },
+        {
+          "path": "corpora/authors/鲁迅/呐喊/社戏.txt",
+          "bytes": 17564,
+          "sha256": "2b0b3b97a5859b7aa9f1d6d80dd0a78ba8b41a31272d6faa288a3d6e78fa5331"
+        },
+        {
+          "path": "corpora/authors/鲁迅/呐喊/端午节.txt",
+          "bytes": 21848,
+          "sha256": "4b09a386662287282eb3dd78f4efc9e3531251c5fd7433319aa557e753c1d0e7"
+        },
+        {
+          "path": "corpora/authors/鲁迅/呐喊/自序.txt",
+          "bytes": 8606,
+          "sha256": "56a450d7c4a6847db2c0dc3659ef470bdce6f3c50d34392f3038b35949775522"
+        },
+        {
+          "path": "corpora/authors/鲁迅/呐喊/阿Q正传.txt",
+          "bytes": 64327,
+          "sha256": "d4d4db9c81aac32355bd7acd48abe0e208ef7c85e610c292b77a62afc88f1711"
+        },
+        {
+          "path": "corpora/authors/鲁迅/呐喊/风波.txt",
+          "bytes": 12992,
+          "sha256": "9bd47e2de8c1c53b9c9c28115beba64bd45d568a00df1a13e48df0dda797323e"
+        },
+        {
+          "path": "corpora/authors/鲁迅/呐喊/鸭的喜剧.txt",
+          "bytes": 4785,
+          "sha256": "001b7ba09dd3582812d7faeca2e3dd8ee644a96eb17d453715436f55cf3231d9"
+        }
+      ]
+    },
+    {
+      "author": "鲁迅",
+      "collection": "彷徨",
+      "source_directory": "corpora/authors/鲁迅/彷徨",
+      "txt_count": 11,
+      "files": [
+        {
+          "path": "corpora/authors/鲁迅/彷徨/伤逝.txt",
+          "bytes": 34145,
+          "sha256": "0d2ef3e3e6743ea891b590d0732b3c13e8a8c553f177acb0436c456150b90789"
+        },
+        {
+          "path": "corpora/authors/鲁迅/彷徨/在酒楼上.txt",
+          "bytes": 18376,
+          "sha256": "bf18d1945ff5615f67bc618a53a802bc3a9b7031957208d04c206faf6b96c60c"
+        },
+        {
+          "path": "corpora/authors/鲁迅/彷徨/孤独者.txt",
+          "bytes": 38607,
+          "sha256": "ae1cf1c577027bddd10e25d87edfee69d864a0f8b94ad6113ef71c63958c2672"
+        },
+        {
+          "path": "corpora/authors/鲁迅/彷徨/幸福的家庭.txt",
+          "bytes": 16327,
+          "sha256": "96d48a1acfdde2ecedcbad68bd7a241e794009f1387b11991e5b96b10f3c1b6d"
+        },
+        {
+          "path": "corpora/authors/鲁迅/彷徨/弟兄.txt",
+          "bytes": 18206,
+          "sha256": "0bf11ae906d0a6b9ae221c17200a8efddb340871595d66a0ff88b0d92357751d"
+        },
+        {
+          "path": "corpora/authors/鲁迅/彷徨/示众.txt",
+          "bytes": 9083,
+          "sha256": "eb343ed9a90d8f5677c3313b101ffd4e2aded7db8fda6cb0e05663e3a61ea29f"
+        },
+        {
+          "path": "corpora/authors/鲁迅/彷徨/祝福.txt",
+          "bytes": 27701,
+          "sha256": "ce1b592d10b036c2247e4b81dbe6ba7848c943749629860b653cf7b3178a7972"
+        },
+        {
+          "path": "corpora/authors/鲁迅/彷徨/离婚.txt",
+          "bytes": 17528,
+          "sha256": "651a0ed0b60b46a50176c8a0d9911ace8ced9a81c8f33dc9ccbae0c54980d335"
+        },
+        {
+          "path": "corpora/authors/鲁迅/彷徨/肥皂.txt",
+          "bytes": 19055,
+          "sha256": "2db014739e3bfc80b46cf90b6927ec3ec2952335bfa92effd4924e455a88a645"
+        },
+        {
+          "path": "corpora/authors/鲁迅/彷徨/长明灯.txt",
+          "bytes": 16475,
+          "sha256": "5923f716b51b535c86fadb8f51dbf65a089ebae5cca792af1447839876c61f7a"
+        },
+        {
+          "path": "corpora/authors/鲁迅/彷徨/高老夫子.txt",
+          "bytes": 18200,
+          "sha256": "7b695a803814c5a5719be26a4c3c4def43bd1e85a881de93fb01c94b7c39bd56"
+        }
+      ]
+    },
+    {
+      "author": "鲁迅",
+      "collection": "故事新编",
+      "source_directory": "corpora/authors/鲁迅/故事新编",
+      "txt_count": 9,
+      "files": [
+        {
+          "path": "corpora/authors/鲁迅/故事新编/出關.txt",
+          "bytes": 24038,
+          "sha256": "235965b2a81152ddc43d6a0cf647da6c3e471018ca4b6e9958ae23c676bab5db"
+        },
+        {
+          "path": "corpora/authors/鲁迅/故事新编/奔月.txt",
+          "bytes": 18348,
+          "sha256": "b3b1d8005482dbb7382a2c5b29f4ead90451db31b46bb693b4a03a311cac6352"
+        },
+        {
+          "path": "corpora/authors/鲁迅/故事新编/序言.txt",
+          "bytes": 3463,
+          "sha256": "6de96aa4d610ea4ae66b34515f6f6250288f31a8a84c098838f1a7a854c9872a"
+        },
+        {
+          "path": "corpora/authors/鲁迅/故事新编/採薇.txt",
+          "bytes": 30704,
+          "sha256": "586e06fd9cf8a1f28e80f0120bbc4409105753c465b0e47c0294c2bc5f5c45a9"
+        },
+        {
+          "path": "corpora/authors/鲁迅/故事新编/理水.txt",
+          "bytes": 25430,
+          "sha256": "63bd319cac8a5b6950e619e5d518c917b9d27621a1507f5c9b925d469e4b576b"
+        },
+        {
+          "path": "corpora/authors/鲁迅/故事新编/補天.txt",
+          "bytes": 15032,
+          "sha256": "df3dee8c5eb6905d36b1e41dcc5d94f2a10032b7629ebdd1526b0e486f0314ac"
+        },
+        {
+          "path": "corpora/authors/鲁迅/故事新编/起死.txt",
+          "bytes": 19723,
+          "sha256": "e6af1c8efb1de5c5b493c89acf8453c07a44c8e0c42ef7a2ebe3a5a0a6e2f676"
+        },
+        {
+          "path": "corpora/authors/鲁迅/故事新编/鑄劍.txt",
+          "bytes": 31033,
+          "sha256": "4e34dab24fe80d6bf012c09fe57549eb4a19c03d50d62b1729db0da7de522223"
+        },
+        {
+          "path": "corpora/authors/鲁迅/故事新编/非攻.txt",
+          "bytes": 27728,
+          "sha256": "4731604836f83daf652e2500b2c8ceef00f79330f443d9e59194d43aa7ecc47f"
+        }
+      ]
+    },
+    {
+      "author": "沈从文",
+      "collection": "沈从文",
+      "source_directory": "corpora/authors/沈从文/沈从文小说集",
+      "txt_count": 11,
+      "files": [
+        {
+          "path": "corpora/authors/沈从文/沈从文小说集/一个女剧员的生活.txt",
+          "bytes": 211023,
+          "sha256": "7cfae6d39e758d6bee65cfb1fb4c7cd8e4ce5e674bee404ba1142467fdd0164c"
+        },
+        {
+          "path": "corpora/authors/沈从文/沈从文小说集/丈夫.txt",
+          "bytes": 32547,
+          "sha256": "cada7eb5e16e026cbb221a4195345921d4a69137d432b4858b47723159385fe9"
+        },
+        {
+          "path": "corpora/authors/沈从文/沈从文小说集/三三.txt",
+          "bytes": 47859,
+          "sha256": "7ec26c5a414030aaedd12d5824d51e2dc0759a3a5aad3a4e46d907d91446c1ba"
+        },
+        {
+          "path": "corpora/authors/沈从文/沈从文小说集/三个男人和一个女人.txt",
+          "bytes": 43132,
+          "sha256": "663430d3b3d70225d3cde1cacc994809c0baafb0f68461437759374d7d6f2590"
+        },
+        {
+          "path": "corpora/authors/沈从文/沈从文小说集/月下小景.txt",
+          "bytes": 21934,
+          "sha256": "3728ced40b6d56f1af1534a8e2ef8807cc85970e2397c01d0fabedc0f3bbf18f"
+        },
+        {
+          "path": "corpora/authors/沈从文/沈从文小说集/未命名.txt",
+          "bytes": 20872,
+          "sha256": "6b6a34eb10966307bfc3f4fc6f35ecab11a6cc26c3ee40bae6b4aeb853f3e824"
+        },
+        {
+          "path": "corpora/authors/沈从文/沈从文小说集/萧萧.txt",
+          "bytes": 25534,
+          "sha256": "6140e918303b9fb5820791c8dc58f626b273ab1ec40263e2dc7e2d1fcd38350f"
+        },
+        {
+          "path": "corpora/authors/沈从文/沈从文小说集/虎雏.txt",
+          "bytes": 48201,
+          "sha256": "e63fc45b8858128df77d163d59ad5adf6b15597db521eba1a45122838c0affdb"
+        },
+        {
+          "path": "corpora/authors/沈从文/沈从文小说集/贵生.txt",
+          "bytes": 58516,
+          "sha256": "c818562a3fc58e4f940624079e98cf7b96d2632f6b90d28b0c400f8cee20b761"
+        },
+        {
+          "path": "corpora/authors/沈从文/沈从文小说集/阿黑小史.txt",
+          "bytes": 96011,
+          "sha256": "d95647b95aba24212602af43aef3883c63f01276bd1b9db42027fd13e1e3de03"
+        },
+        {
+          "path": "corpora/authors/沈从文/沈从文小说集/龙朱.txt",
+          "bytes": 34360,
+          "sha256": "9a285055b3fdd28d3dc38ecb51e20db3d8c410c8efacd9b44d9a3cb18ef191b5"
+        }
+      ]
+    }
+  ]
+}

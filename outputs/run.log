@@ -1,0 +1,13 @@
+Verified imports: {'qhchina': '0.2.7', 'jieba': '0.42.1', 'matplotlib': '3.11.2', 'scikit-learn': '1.9.1', 'numpy': '2.5.4', 'plotly': '7.1.0', 'Pillow': '13.0.0', 'adjustText': '1.4.0'}
+Building prefix dict from the default dictionary ...
+Loading model from cache /Users/joelau/Documents/GitHub/stylo-demo/.cache/jieba.cache
+Loading model cost 0.213 seconds.
+Prefix dict has been built successfully.
+呐喊: 12 documents, 38,314 tokens
+彷徨: 11 documents, 41,724 tokens
+故事新编: 9 documents, 32,952 tokens
+沈从文: 11 documents, 118,467 tokens
+30 features: 43 PCA points; explained variance 36.15%
+100 features: 43 PCA points; explained variance 31.24%
+300 features: 43 PCA points; explained variance 26.81%
+Outputs: /Users/joelau/Documents/GitHub/stylo-demo/outputs
